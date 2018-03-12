@@ -56,6 +56,7 @@ tap caskroom/cask
 cask jetbrains-toolbox
 cask freemind
 cask atom
+cask pg-commander
 cask vlc
 cask intellij-idea-ce
 cask netbeans
@@ -69,6 +70,7 @@ cask google-chrome
 cask google-japanese-ime
 cask filezilla
 cask opera
+cask mysqlworkbench
 cask pycharm-ce
 
 tap caskroom/versions
