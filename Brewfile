@@ -53,14 +53,22 @@ brew php71 --with-httpd
 tap homebrew/services
 
 tap caskroom/cask
+cask jetbrains-toolbox
+cask freemind
 cask atom
 cask vlc
 cask intellij-idea-ce
 cask netbeans
+cask mi
 cask iterm2
+cask gimp
+cask cocoarestclient
 cask android-studio
 cask firefox
 cask google-chrome
+cask google-japanese-ime
+cask filezilla
+cask opera
 cask pycharm-ce
 
 tap caskroom/versions
