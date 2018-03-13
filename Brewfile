@@ -56,6 +56,8 @@ tap caskroom/cask
 cask jetbrains-toolbox
 cask freemind
 cask atom
+cask avg-antivirus
+cask virtualbox
 cask pg-commander
 cask vlc
 cask intellij-idea-ce
@@ -64,8 +66,10 @@ cask mi
 cask iterm2
 cask vagrant
 cask gimp
+cask virtualbox-extension-pack
 cask cocoarestclient
 cask android-studio
+cask vagrant-manager
 cask firefox
 cask google-chrome
 cask google-japanese-ime
