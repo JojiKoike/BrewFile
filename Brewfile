@@ -69,8 +69,10 @@ cask gimp
 cask virtualbox-extension-pack
 cask cocoarestclient
 cask android-studio
+cask flash-player
 cask vagrant-manager
 cask firefox
+cask adobe-acrobat-reader
 cask google-chrome
 cask google-japanese-ime
 cask filezilla
