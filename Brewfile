@@ -62,6 +62,7 @@ cask intellij-idea-ce
 cask netbeans
 cask mi
 cask iterm2
+cask vagrant
 cask gimp
 cask cocoarestclient
 cask android-studio
