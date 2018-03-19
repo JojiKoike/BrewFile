@@ -14,6 +14,7 @@ brew gettext
 brew git-flow-avh
 brew gnu-getopt
 brew goenv
+brew gradle
 brew heroku
 brew httpd
 brew icu4c
@@ -27,6 +28,7 @@ brew libpng
 brew libtool
 brew libunistring
 brew libxml2
+brew libyaml
 brew mas
 brew mysql
 brew nghttp2
@@ -37,7 +39,6 @@ brew pkg-config
 brew postgresql
 brew pyenv
 brew pyenv-virtualenv
-brew python
 brew rbenv
 brew rbenv-gemset
 brew readline
@@ -64,6 +65,7 @@ cask intellij-idea-ce
 cask netbeans
 cask mi
 cask iterm2
+cask docker
 cask vagrant
 cask gimp
 cask virtualbox-extension-pack
@@ -95,7 +97,7 @@ brew brew-file
 appstore 406056744 Evernote (7.0.2)
 appstore 539883307 LINE (5.6.1)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
-appstore 803453959 Slack (3.0.5)
+appstore 803453959 Slack (3.1.0)
 appstore 409789998 Twitter (4.3.2)
 appstore 441812880 Wallpapers HD Lite (1.4)
 appstore 497799835 Xcode (9.2)
