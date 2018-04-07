@@ -4,14 +4,18 @@
 tap homebrew/core
 brew apr
 brew apr-util
+brew aspell
 brew autoconf
 brew boost
 brew brotli
 brew c-ares
+brew freetds
 brew freetype
 brew gdbm
 brew gettext
 brew git-flow-avh
+brew glib
+brew gmp
 brew gnu-getopt
 brew goenv
 brew gradle
@@ -23,18 +27,24 @@ brew jemalloc
 brew jpeg
 brew libev
 brew libevent
+brew libffi
 brew libidn2
 brew libpng
+brew libpq
 brew libtool
 brew libunistring
 brew libxml2
 brew libyaml
+brew libzip
 brew mas
+brew mcrypt
+brew mhash
 brew mysql
 brew nghttp2
 brew node
 brew openssl
 brew pcre
+brew php@7.1
 brew pkg-config
 brew postgresql
 brew pyenv
@@ -45,42 +55,42 @@ brew readline
 brew ruby-build
 brew sqlite
 brew unixodbc
+brew webp
 brew wget
 brew xz
 
 tap homebrew/php
-brew php71 --with-httpd
 
 tap homebrew/services
 
 tap caskroom/cask
-cask jetbrains-toolbox
-cask freemind
+cask adobe-acrobat-reader
+cask android-studio
 cask atom
 cask avg-antivirus
-cask virtualbox
-cask pg-commander
-cask vlc
-cask intellij-idea-ce
-cask netbeans
-cask mi
-cask iterm2
-cask docker
-cask vagrant
-cask gimp
-cask virtualbox-extension-pack
 cask cocoarestclient
-cask android-studio
-cask flash-player
-cask vagrant-manager
+cask docker
+cask filezilla
 cask firefox
-cask adobe-acrobat-reader
+cask flash-player
+cask freemind
+cask gimp
 cask google-chrome
 cask google-japanese-ime
-cask filezilla
-cask opera
+cask intellij-idea-ce
+cask iterm2
+cask jetbrains-toolbox
+cask mi
 cask mysqlworkbench
+cask netbeans
+cask opera
+cask pg-commander
 cask pycharm-ce
+cask vagrant
+cask vagrant-manager
+cask virtualbox
+cask virtualbox-extension-pack
+cask vlc
 
 tap caskroom/versions
 cask firefox-developer-edition
@@ -94,10 +104,10 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
-appstore 406056744 Evernote (7.0.2)
-appstore 539883307 LINE (5.6.1)
+appstore 406056744 Evernote (7.0.3)
+appstore 539883307 LINE (5.7.0)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
-appstore 803453959 Slack (3.1.0)
+appstore 803453959 Slack (3.1.1)
 appstore 409789998 Twitter (4.3.2)
 appstore 441812880 Wallpapers HD Lite (1.4)
-appstore 497799835 Xcode (9.2)
+appstore 497799835 Xcode (9.3)
