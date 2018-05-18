@@ -9,6 +9,7 @@ brew autoconf
 brew boost
 brew brotli
 brew c-ares
+brew dep
 brew freetds
 brew freetype
 brew gdbm
@@ -17,6 +18,7 @@ brew git-flow-avh
 brew glib
 brew gmp
 brew gnu-getopt
+brew go
 brew goenv
 brew gradle
 brew heroku
@@ -65,6 +67,7 @@ tap homebrew/services
 
 tap caskroom/cask
 cask adobe-acrobat-reader
+cask android-file-transfer
 cask android-studio
 cask atom
 cask avg-antivirus
@@ -73,7 +76,6 @@ cask docker
 cask filezilla
 cask firefox
 cask flash-player
-cask freemind
 cask gimp
 cask google-chrome
 cask google-japanese-ime
@@ -98,16 +100,18 @@ cask java8
 
 tap argon/mas
 
+tap go-delve/delve
+
 tap heroku/brew
 
 tap rcmdnk/file
 brew brew-file
 
 # App Store applications
-appstore 406056744 Evernote (7.0.3)
+appstore 406056744 Evernote (7.1.1)
 appstore 539883307 LINE (5.7.0)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
 appstore 803453959 Slack (3.1.1)
 appstore 409789998 Twitter (4.3.2)
 appstore 441812880 Wallpapers HD Lite (1.4)
-appstore 497799835 Xcode (9.3)
+appstore 497799835 Xcode (9.3.1)
