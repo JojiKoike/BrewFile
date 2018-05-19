@@ -103,6 +103,7 @@ tap argon/mas
 tap go-delve/delve
 
 tap heroku/brew
+brew heroku-node
 
 tap rcmdnk/file
 brew brew-file
