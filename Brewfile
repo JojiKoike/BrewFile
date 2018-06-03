@@ -43,7 +43,6 @@ brew mcrypt
 brew mhash
 brew mysql
 brew nghttp2
-brew node
 brew openssl
 brew pcre
 brew php@7.1
@@ -66,37 +65,8 @@ tap homebrew/php
 tap homebrew/services
 
 tap caskroom/cask
-cask adobe-acrobat-reader
-cask android-file-transfer
-cask android-studio
-cask atom
-cask avg-antivirus
-cask cocoarestclient
-cask docker
-cask filezilla
-cask firefox
-cask flash-player
-cask gimp
-cask google-chrome
-cask google-japanese-ime
-cask intellij-idea-ce
-cask iterm2
-cask jetbrains-toolbox
-cask mi
-cask mysqlworkbench
-cask netbeans
-cask opera
-cask pg-commander
-cask pycharm-ce
-cask vagrant
-cask vagrant-manager
-cask virtualbox
-cask virtualbox-extension-pack
-cask vlc
 
 tap caskroom/versions
-cask firefox-developer-edition
-cask java8
 
 tap argon/mas
 
@@ -107,6 +77,38 @@ brew heroku-node
 
 tap rcmdnk/file
 brew brew-file
+
+# Other Cask applications
+cask adobe-acrobat-reader
+cask android-file-transfer
+cask android-studio
+cask atom
+cask avg-antivirus
+cask cocoarestclient
+cask docker
+cask filezilla
+cask firefox
+cask firefox-developer-edition
+cask flash-player
+cask gimp
+cask google-chrome
+cask google-japanese-ime
+cask intellij-idea-ce
+cask iterm2
+cask java8
+cask jetbrains-toolbox
+cask mi
+cask mysqlworkbench
+cask netbeans
+cask openoffice
+cask opera
+cask pg-commander
+cask pycharm-ce
+cask vagrant
+cask vagrant-manager
+cask virtualbox
+cask virtualbox-extension-pack
+cask vlc
 
 # App Store applications
 appstore 406056744 Evernote (7.1.1)
