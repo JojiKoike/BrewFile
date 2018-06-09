@@ -70,6 +70,9 @@ tap caskroom/versions
 
 tap argon/mas
 
+tap chef/chef
+cask chefdk
+
 tap go-delve/delve
 
 tap heroku/brew
