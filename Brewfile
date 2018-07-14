@@ -19,7 +19,6 @@ brew glib
 brew gmp
 brew gnu-getopt
 brew go
-brew goenv
 brew gradle
 brew heroku
 brew httpd
@@ -49,7 +48,6 @@ brew php@7.1
 brew pkg-config
 brew postgresql
 brew pyenv
-brew pyenv-virtualenv
 brew rbenv
 brew rbenv-gemset
 brew readline
