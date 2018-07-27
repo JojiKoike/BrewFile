@@ -75,15 +75,16 @@ cask avg-antivirus
 cask cocoarestclient
 cask filezilla
 cask flash-player
-cask google-chrome
-cask intellij-idea-ce
-cask jetbrains-toolbox
-cask mi
-cask netbeans
-cask opera
-cask pycharm-ce
-cask vagrant-manager
-cask virtualbox-extension-pack
+cask gitup
+cask google-japanese-ime
+cask iterm2
+cask kindle
+cask mysqlworkbench
+cask openoffice
+cask pg-commander
+cask vagrant
+cask virtualbox
+cask vlc
 
 tap argon/mas
 
@@ -104,15 +105,15 @@ cask atom
 cask docker
 cask firefox
 cask gimp
-cask google-japanese-ime
-cask iterm2
-cask kindle
-cask mysqlworkbench
-cask openoffice
-cask pg-commander
-cask vagrant
-cask virtualbox
-cask vlc
+cask google-chrome
+cask intellij-idea-ce
+cask jetbrains-toolbox
+cask mi
+cask netbeans
+cask opera
+cask pycharm-ce
+cask vagrant-manager
+cask virtualbox-extension-pack
 
 # App Store applications
 appstore 406056744 Evernote (7.2.3)
