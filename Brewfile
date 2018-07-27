@@ -14,6 +14,7 @@ brew freetds
 brew freetype
 brew gdbm
 brew gettext
+brew git
 brew git-flow-avh
 brew glib
 brew gmp
@@ -114,9 +115,10 @@ cask virtualbox
 cask vlc
 
 # App Store applications
-appstore 406056744 Evernote (7.2.2)
+appstore 406056744 Evernote (7.2.3)
 appstore 539883307 LINE (5.8.0)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
+appstore 483820530 QR Journal (1.6)
 appstore 803453959 Slack (3.2.0)
 appstore 409789998 Twitter (4.3.2)
 appstore 441812880 Wallpapers HD Lite (1.4)
