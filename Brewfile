@@ -45,7 +45,6 @@ brew pcre
 brew pkg-config
 brew postgresql
 brew readline
-brew ruby-build
 brew sqlite
 brew tmux
 brew unixodbc
