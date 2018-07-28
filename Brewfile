@@ -44,8 +44,6 @@ brew openssl
 brew pcre
 brew pkg-config
 brew postgresql
-brew rbenv
-brew rbenv-gemset
 brew readline
 brew ruby-build
 brew sqlite
@@ -56,7 +54,6 @@ brew wget
 brew xz
 
 tap homebrew/cask-versions
-cask firefox-developer-edition
 cask java8
 
 tap homebrew/php
