@@ -48,6 +48,7 @@ brew openssl
 brew pcre
 brew pkg-config
 brew postgresql
+brew r
 brew readline
 brew sqlite
 brew tmux
@@ -75,9 +76,9 @@ cask jetbrains-toolbox
 cask mi
 cask netbeans
 cask opera
-cask vagrant
-cask virtualbox
-cask vlc
+cask rstudio
+cask vagrant-manager
+cask virtualbox-extension-pack
 
 tap argon/mas
 
@@ -103,8 +104,9 @@ cask kindle
 cask mysqlworkbench
 cask openoffice
 cask pg-commander
-cask vagrant-manager
-cask virtualbox-extension-pack
+cask vagrant
+cask virtualbox
+cask vlc
 
 # App Store applications
 appstore 406056744 Evernote (7.2.3)
