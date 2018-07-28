@@ -71,11 +71,10 @@ cask filezilla
 cask flash-player
 cask gitup
 cask google-japanese-ime
-cask iterm2
-cask kindle
-cask mysqlworkbench
-cask openoffice
-cask pg-commander
+cask jetbrains-toolbox
+cask mi
+cask netbeans
+cask opera
 cask vagrant
 cask virtualbox
 cask vlc
@@ -99,12 +98,11 @@ cask cocoarestclient
 cask firefox
 cask gimp
 cask google-chrome
-cask intellij-idea-ce
-cask jetbrains-toolbox
-cask mi
-cask netbeans
-cask opera
-cask pycharm-ce
+cask iterm2
+cask kindle
+cask mysqlworkbench
+cask openoffice
+cask pg-commander
 cask vagrant-manager
 cask virtualbox-extension-pack
 
