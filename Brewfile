@@ -77,9 +77,8 @@ cask mi
 cask netbeans
 cask opera
 cask rstudio
-cask vagrant
-cask virtualbox
-cask vlc
+cask vagrant-manager
+cask virtualbox-extension-pack
 
 tap argon/mas
 
@@ -105,9 +104,9 @@ cask kindle
 cask mysqlworkbench
 cask openoffice
 cask pg-commander
-cask scilab
-cask vagrant-manager
-cask virtualbox-extension-pack
+cask vagrant
+cask virtualbox
+cask vlc
 
 # App Store applications
 appstore 406056744 Evernote (7.2.3)
