@@ -9,7 +9,6 @@ brew autoconf
 brew boost
 brew brotli
 brew c-ares
-brew dep
 brew freetds
 brew freetype
 brew gdbm
@@ -19,10 +18,8 @@ brew git-flow-avh
 brew glib
 brew gmp
 brew gnu-getopt
-brew go
 brew gradle
 brew heroku
-brew httpd
 brew icu4c
 brew jansson
 brew jemalloc
@@ -45,10 +42,8 @@ brew mysql
 brew nghttp2
 brew openssl
 brew pcre
-brew php@7.1
 brew pkg-config
 brew postgresql
-brew pyenv
 brew rbenv
 brew rbenv-gemset
 brew readline
@@ -72,7 +67,6 @@ tap homebrew/cask
 cask adobe-acrobat-reader
 cask android-studio
 cask avg-antivirus
-cask cocoarestclient
 cask filezilla
 cask flash-player
 cask gitup
@@ -89,7 +83,6 @@ cask vlc
 tap argon/mas
 
 tap chef/chef
-cask chefdk
 
 tap go-delve/delve
 
@@ -102,7 +95,7 @@ brew brew-file
 # Other Cask applications
 cask android-file-transfer
 cask atom
-cask docker
+cask cocoarestclient
 cask firefox
 cask gimp
 cask google-chrome
