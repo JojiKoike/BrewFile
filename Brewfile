@@ -11,6 +11,7 @@ brew brotli
 brew c-ares
 brew freetds
 brew freetype
+brew gcc
 brew gdbm
 brew gettext
 brew git
@@ -21,6 +22,7 @@ brew gnu-getopt
 brew gradle
 brew heroku
 brew icu4c
+brew isl
 brew jansson
 brew jemalloc
 brew jpeg
@@ -28,6 +30,7 @@ brew libev
 brew libevent
 brew libffi
 brew libidn2
+brew libmpc
 brew libpng
 brew libpq
 brew libtool
@@ -38,6 +41,7 @@ brew libzip
 brew mas
 brew mcrypt
 brew mhash
+brew mpfr
 brew mysql
 brew nghttp2
 brew openssl
