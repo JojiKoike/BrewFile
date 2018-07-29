@@ -43,7 +43,6 @@ brew mas
 brew mcrypt
 brew mhash
 brew mpfr
-brew mysql
 brew nghttp2
 brew openssl
 brew pcre
