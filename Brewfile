@@ -20,6 +20,7 @@ brew glib
 brew gmp
 brew gnu-getopt
 brew gradle
+brew haskell-stack
 brew heroku
 brew icu4c
 brew isl
