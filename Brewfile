@@ -56,6 +56,7 @@ brew unixodbc
 brew webp
 brew wget
 brew xz
+brew zsh
 
 tap homebrew/cask-versions
 cask java8
