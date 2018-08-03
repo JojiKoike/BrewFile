@@ -9,6 +9,7 @@ brew autoconf
 brew boost
 brew brotli
 brew c-ares
+brew emacs
 brew freetds
 brew freetype
 brew gcc
@@ -19,6 +20,7 @@ brew git-flow-avh
 brew glib
 brew gmp
 brew gnu-getopt
+brew gnutls
 brew gradle
 brew haskell-stack
 brew heroku
@@ -34,6 +36,7 @@ brew libidn2
 brew libmpc
 brew libpng
 brew libpq
+brew libtasn1
 brew libtool
 brew libunistring
 brew libxml2
@@ -43,8 +46,10 @@ brew mas
 brew mcrypt
 brew mhash
 brew mpfr
+brew nettle
 brew nghttp2
 brew openssl
+brew p11-kit
 brew pcre
 brew pkg-config
 brew postgresql
