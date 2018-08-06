@@ -50,13 +50,17 @@ brew nghttp2
 brew openssl
 brew p11-kit
 brew pcre
+brew perl
 brew pkg-config
 brew postgresql
+brew python
 brew r
 brew readline
+brew ruby
 brew sqlite
 brew tmux
 brew unixodbc
+brew vim
 brew webp
 brew wget
 brew xz
