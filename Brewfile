@@ -9,7 +9,6 @@ brew autoconf
 brew boost
 brew brotli
 brew c-ares
-brew emacs
 brew freetds
 brew freetype
 brew gcc
@@ -74,18 +73,18 @@ tap homebrew/cask
 cask adobe-acrobat-reader
 cask android-studio
 cask avg-antivirus
-cask filezilla
-cask flash-player
-cask gitup
-cask google-japanese-ime
-cask jetbrains-toolbox
-cask mi
-cask netbeans
-cask opera
-cask react-studio
-cask vagrant
-cask virtualbox
-cask vlc
+cask emacs
+cask firefox
+cask gimp
+cask google-chrome
+cask iterm2
+cask kindle
+cask mysqlworkbench
+cask openoffice
+cask pg-commander
+cask rstudio
+cask vagrant-manager
+cask virtualbox-extension-pack
 
 tap argon/mas
 
@@ -103,17 +102,18 @@ brew brew-file
 cask android-file-transfer
 cask atom
 cask cocoarestclient
-cask firefox
-cask gimp
-cask google-chrome
-cask iterm2
-cask kindle
-cask mysqlworkbench
-cask openoffice
-cask pg-commander
-cask rstudio
-cask vagrant-manager
-cask virtualbox-extension-pack
+cask filezilla
+cask flash-player
+cask gitup
+cask google-japanese-ime
+cask jetbrains-toolbox
+cask mi
+cask netbeans
+cask opera
+cask react-studio
+cask vagrant
+cask virtualbox
+cask vlc
 
 # App Store applications
 appstore 406056744 Evernote (7.2.3)
