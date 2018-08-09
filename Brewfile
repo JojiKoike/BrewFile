@@ -77,7 +77,7 @@ tap homebrew/cask
 cask adobe-acrobat-reader
 cask android-studio
 cask avg-antivirus
-cask emacs
+cask cyberduck
 cask firefox
 cask gimp
 cask google-chrome
@@ -107,7 +107,7 @@ brew brew-file
 cask android-file-transfer
 cask atom
 cask cocoarestclient
-cask filezilla
+cask emacs
 cask flash-player
 cask gitup
 cask google-japanese-ime
@@ -122,7 +122,7 @@ cask virtualbox-extension-pack
 
 # App Store applications
 appstore 406056744 Evernote (7.2.3)
-appstore 539883307 LINE (5.8.0)
+appstore 539883307 LINE (5.9.0)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
 appstore 483820530 QR Journal (1.6)
 appstore 803453959 Slack (3.2.0)
