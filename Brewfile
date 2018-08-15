@@ -9,11 +9,13 @@ brew autoconf
 brew boost
 brew brotli
 brew c-ares
+brew cabal-install
 brew freetds
 brew freetype
 brew gcc
 brew gdbm
 brew gettext
+brew ghc
 brew git
 brew git-flow-avh
 brew glib
@@ -121,9 +123,9 @@ cask vagrant-manager
 cask virtualbox-extension-pack
 
 # App Store applications
-appstore 406056744 Evernote (7.2.3)
-appstore 539883307 LINE (5.9.0)
-appstore 715768417 Microsoft Remote Desktop (8.0.27325)
+appstore 406056744 Evernote (7.3.1)
+appstore 539883307 LINE (5.9.2)
+appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 483820530 QR Journal (1.6)
 appstore 803453959 Slack (3.2.0)
 appstore 409789998 Twitter (4.3.2)
