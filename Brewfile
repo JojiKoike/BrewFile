@@ -123,7 +123,7 @@ cask vagrant-manager
 cask virtualbox-extension-pack
 
 # App Store applications
-appstore 406056744 Evernote (7.3.1)
+appstore 406056744 Evernote (7.4)
 appstore 539883307 LINE (5.9.2)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 483820530 QR Journal (1.6)
