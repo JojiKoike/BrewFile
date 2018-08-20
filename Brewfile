@@ -84,14 +84,14 @@ cask firefox
 cask gimp
 cask google-chrome
 cask iterm2
-cask kindle
-cask mi
-cask netbeans
-cask opera
-cask react-studio
-cask vagrant
-cask virtualbox
-cask vlc
+cask jetbrains-toolbox
+cask macvim
+cask mysqlworkbench
+cask openoffice
+cask pg-commander
+cask rstudio
+cask vagrant-manager
+cask virtualbox-extension-pack
 
 tap argon/mas
 
@@ -113,18 +113,19 @@ cask emacs
 cask flash-player
 cask gitup
 cask google-japanese-ime
-cask jetbrains-toolbox
-cask macvim
-cask mysqlworkbench
-cask openoffice
-cask pg-commander
-cask rstudio
-cask vagrant-manager
-cask virtualbox-extension-pack
+cask java
+cask kindle
+cask mi
+cask netbeans
+cask opera
+cask react-studio
+cask vagrant
+cask virtualbox
+cask vlc
 
 # App Store applications
 appstore 406056744 Evernote (7.4)
-appstore 539883307 LINE (5.9.2)
+appstore 539883307 LINE (5.9.3)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 483820530 QR Journal (1.6)
 appstore 803453959 Slack (3.2.0)
