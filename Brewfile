@@ -59,6 +59,7 @@ brew python
 brew r
 brew readline
 brew ruby
+brew sbt
 brew sqlite
 brew tmux
 brew unixodbc
