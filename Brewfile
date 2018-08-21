@@ -62,6 +62,7 @@ brew ruby
 brew sbt
 brew sqlite
 brew tmux
+brew typesafe-activator
 brew unixodbc
 brew vim
 brew webp
