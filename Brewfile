@@ -2,6 +2,7 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew adns
 brew apr
 brew apr-util
 brew aspell
@@ -21,6 +22,7 @@ brew git-flow-avh
 brew glib
 brew gmp
 brew gnu-getopt
+brew gnupg
 brew gnutls
 brew gradle
 brew haskell-stack
@@ -30,16 +32,21 @@ brew isl
 brew jansson
 brew jemalloc
 brew jpeg
+brew libassuan
 brew libev
 brew libevent
 brew libffi
+brew libgcrypt
+brew libgpg-error
 brew libidn2
+brew libksba
 brew libmpc
 brew libpng
 brew libpq
 brew libtasn1
 brew libtool
 brew libunistring
+brew libusb
 brew libxml2
 brew libyaml
 brew libzip
@@ -49,10 +56,12 @@ brew mhash
 brew mpfr
 brew nettle
 brew nghttp2
+brew npth
 brew openssl
 brew p11-kit
 brew pcre
 brew perl
+brew pinentry
 brew pkg-config
 brew postgresql
 brew python
