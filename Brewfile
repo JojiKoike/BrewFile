@@ -11,6 +11,7 @@ brew boost
 brew brotli
 brew c-ares
 brew cabal-install
+brew dep
 brew freetds
 brew freetype
 brew gcc
@@ -24,6 +25,7 @@ brew gmp
 brew gnu-getopt
 brew gnupg
 brew gnutls
+brew go
 brew gradle
 brew haskell-stack
 brew heroku
@@ -60,6 +62,7 @@ brew npth
 brew openssl
 brew p11-kit
 brew pcre
+brew pcre2
 brew perl
 brew pinentry
 brew pkg-config
@@ -90,18 +93,19 @@ cask adobe-acrobat-reader
 cask android-studio
 cask avg-antivirus
 cask cyberduck
-cask firefox
-cask gimp
-cask google-chrome
-cask iterm2
-cask jetbrains-toolbox
-cask macvim
-cask mysqlworkbench
-cask openoffice
-cask pg-commander
-cask rstudio
-cask vagrant-manager
-cask virtualbox-extension-pack
+cask emacs
+cask flash-player
+cask gitup
+cask google-japanese-ime
+cask java
+cask kindle
+cask mi
+cask netbeans
+cask opera
+cask react-studio
+cask vagrant
+cask virtualbox
+cask vlc
 
 tap argon/mas
 
@@ -119,26 +123,26 @@ brew brew-file
 cask android-file-transfer
 cask atom
 cask cocoarestclient
-cask emacs
-cask flash-player
-cask gitup
-cask google-japanese-ime
-cask java
-cask kindle
-cask mi
-cask netbeans
-cask opera
-cask react-studio
-cask vagrant
-cask virtualbox
-cask vlc
+cask eclipse-ide
+cask firefox
+cask gimp
+cask google-chrome
+cask iterm2
+cask jetbrains-toolbox
+cask macvim
+cask mysqlworkbench
+cask openoffice
+cask pg-commander
+cask rstudio
+cask vagrant-manager
+cask virtualbox-extension-pack
 
 # App Store applications
 appstore 406056744 Evernote (7.4)
 appstore 539883307 LINE (5.9.3)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 483820530 QR Journal (1.6)
-appstore 803453959 Slack (3.2.0)
+appstore 803453959 Slack (3.3.2)
 appstore 409789998 Twitter (4.3.2)
 appstore 441812880 Wallpapers HD Lite (1.4)
 appstore 497799835 Xcode (9.4.1)
