@@ -107,6 +107,10 @@ cask rstudio
 cask vagrant-manager
 cask virtualbox-extension-pack
 
+tap adoptopenjdk/openjdk
+brew adoptopenjdk-openjdk10
+brew adoptopenjdk-openjdk8
+
 tap argon/mas
 
 tap chef/chef
