@@ -82,7 +82,7 @@ brew xz
 brew zsh
 
 tap homebrew/cask-versions
-cask java8
+cask java10
 
 tap homebrew/php
 
@@ -98,14 +98,14 @@ cask flash-player
 cask gitup
 cask google-japanese-ime
 cask java
-cask kindle
-cask mi
-cask netbeans
-cask opera
-cask react-studio
-cask vagrant
-cask virtualbox
-cask vlc
+cask jetbrains-toolbox
+cask macvim
+cask mysqlworkbench
+cask openoffice
+cask pg-commander
+cask rstudio
+cask vagrant-manager
+cask virtualbox-extension-pack
 
 tap argon/mas
 
@@ -128,14 +128,15 @@ cask firefox
 cask gimp
 cask google-chrome
 cask iterm2
-cask jetbrains-toolbox
-cask macvim
-cask mysqlworkbench
-cask openoffice
-cask pg-commander
-cask rstudio
-cask vagrant-manager
-cask virtualbox-extension-pack
+cask java8
+cask kindle
+cask mi
+cask netbeans
+cask opera
+cask react-studio
+cask vagrant
+cask virtualbox
+cask vlc
 
 # App Store applications
 appstore 406056744 Evernote (7.5.1)
