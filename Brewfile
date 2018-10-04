@@ -143,8 +143,8 @@ cask virtualbox
 cask vlc
 
 # App Store applications
-appstore 406056744 Evernote (7.5.1)
-appstore 539883307 LINE (5.10.0)
+appstore 406056744 Evernote (7.5.2)
+appstore 539883307 LINE (5.10.1)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 483820530 QR Journal (1.6)
 appstore 803453959 Slack (3.3.2)
