@@ -51,11 +51,14 @@ brew libunistring
 brew libusb
 brew libxml2
 brew libyaml
+brew libzdb
 brew libzip
+brew libzzip
 brew mas
 brew mcrypt
 brew mhash
 brew mpfr
+brew mysql-client
 brew nettle
 brew nghttp2
 brew npth
@@ -79,6 +82,7 @@ brew vim
 brew webp
 brew wget
 brew xz
+brew zlib
 brew zsh
 
 tap homebrew/cask-versions
@@ -146,7 +150,7 @@ cask vlc
 appstore 406056744 Evernote (7.5.2)
 appstore 539883307 LINE (5.10.1)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
-appstore 483820530 QR Journal (1.6)
+appstore 483820530 QR Journal (1.7)
 appstore 803453959 Slack (3.3.2)
 appstore 1278508951 Trello (2.10.7)
 appstore 409789998 Twitter (4.3.2)
