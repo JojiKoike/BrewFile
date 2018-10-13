@@ -97,7 +97,6 @@ cask adobe-acrobat-reader
 cask android-studio
 cask avg-antivirus
 cask cyberduck
-cask eclipse-ide
 cask firefox
 cask gimp
 cask google-chrome
@@ -132,7 +131,6 @@ cask android-file-transfer
 cask atom
 cask cocoarestclient
 cask docker
-cask emacs
 cask flash-player
 cask gitup
 cask google-japanese-ime
