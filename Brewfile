@@ -102,13 +102,13 @@ cask gimp
 cask google-chrome
 cask iterm2
 cask jetbrains-toolbox
-cask macvim
-cask mysqlworkbench
-cask openoffice
-cask pg-commander
-cask rstudio
-cask vagrant-manager
-cask virtualbox-extension-pack
+cask mi
+cask netbeans
+cask opera
+cask react-studio
+cask vagrant
+cask virtualbox
+cask vlc
 
 tap adoptopenjdk/openjdk
 brew adoptopenjdk-openjdk10
@@ -137,13 +137,12 @@ cask google-japanese-ime
 cask java
 cask java8
 cask kindle
-cask mi
-cask netbeans
-cask opera
-cask react-studio
-cask vagrant
-cask virtualbox
-cask vlc
+cask mysqlworkbench
+cask openoffice
+cask pg-commander
+cask rstudio
+cask vagrant-manager
+cask virtualbox-extension-pack
 
 # App Store applications
 appstore 406056744 Evernote (7.5.2)
