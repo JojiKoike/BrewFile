@@ -11,7 +11,6 @@ brew boost
 brew brotli
 brew c-ares
 brew cabal-install
-brew dep
 brew freetds
 brew freetype
 brew gcc
@@ -25,7 +24,6 @@ brew gmp
 brew gnu-getopt
 brew gnupg
 brew gnutls
-brew go
 brew gradle
 brew haskell-stack
 brew heroku
@@ -59,6 +57,7 @@ brew mcrypt
 brew mhash
 brew mpfr
 brew mysql-client
+brew ncurses
 brew nettle
 brew nghttp2
 brew npth
@@ -86,7 +85,7 @@ brew zlib
 brew zsh
 
 tap homebrew/cask-versions
-cask java10
+cask java8
 
 tap homebrew/php
 
@@ -135,7 +134,7 @@ cask flash-player
 cask gitup
 cask google-japanese-ime
 cask java
-cask java8
+cask java10
 cask kindle
 cask mysqlworkbench
 cask openoffice
@@ -148,7 +147,7 @@ cask virtualbox-extension-pack
 appstore 406056744 Evernote (7.5.2)
 appstore 539883307 LINE (5.10.1)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
-appstore 483820530 QR Journal (1.7)
+appstore 483820530 QR Journal (1.7.1)
 appstore 803453959 Slack (3.3.2)
 appstore 1278508951 Trello (2.10.7)
 appstore 409789998 Twitter (4.3.2)
