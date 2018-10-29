@@ -26,7 +26,6 @@ brew gnupg
 brew gnutls
 brew gradle
 brew haskell-stack
-brew heroku
 brew icu4c
 brew isl
 brew jansson
@@ -52,6 +51,7 @@ brew libyaml
 brew libzdb
 brew libzip
 brew libzzip
+brew lua
 brew mas
 brew mcrypt
 brew mhash
@@ -77,7 +77,7 @@ brew sbt
 brew sqlite
 brew tmux
 brew unixodbc
-brew vim
+brew vim --with-lua
 brew webp
 brew wget
 brew xz
@@ -111,7 +111,6 @@ cask vlc
 
 tap adoptopenjdk/openjdk
 brew adoptopenjdk-openjdk10
-brew adoptopenjdk-openjdk8
 
 tap argon/mas
 
@@ -120,10 +119,14 @@ tap chef/chef
 tap go-delve/delve
 
 tap heroku/brew
+brew heroku
 brew heroku-node
 
 tap rcmdnk/file
 brew brew-file
+
+# Other Homebrew packages
+brew adoptopenjdk-openjdk8
 
 # Other Cask applications
 cask android-file-transfer
