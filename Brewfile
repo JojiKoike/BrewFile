@@ -70,6 +70,7 @@ brew pinentry
 brew pkg-config
 brew postgresql
 brew python
+brew python@2
 brew r
 brew readline
 brew ruby
@@ -152,7 +153,7 @@ appstore 539883307 LINE (5.10.1)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 483820530 QR Journal (1.7.1)
 appstore 803453959 Slack (3.3.3)
-appstore 1278508951 Trello (2.10.7)
+appstore 1278508951 Trello (2.10.8)
 appstore 409789998 Twitter (4.3.2)
 appstore 441812880 Wallpapers HD Lite (1.4)
 appstore 497799835 Xcode (10.1)
