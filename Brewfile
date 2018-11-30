@@ -78,7 +78,7 @@ brew sbt
 brew sqlite
 brew tmux
 brew unixodbc
-brew vim --with-lua
+brew vim
 brew webp
 brew wget
 brew xz
@@ -106,12 +106,12 @@ cask mi
 cask netbeans
 cask opera
 cask react-studio
-cask vagrant
-cask virtualbox
-cask visual-studio-code
+cask skype
+cask vagrant-manager
+cask virtualbox-extension-pack
+cask vlc
 
 tap adoptopenjdk/openjdk
-brew adoptopenjdk-openjdk10
 
 tap argon/mas
 
@@ -127,6 +127,7 @@ tap rcmdnk/file
 brew brew-file
 
 # Other Homebrew packages
+brew adoptopenjdk-openjdk10
 brew adoptopenjdk-openjdk8
 
 # Other Cask applications
@@ -144,13 +145,13 @@ cask mysqlworkbench
 cask openoffice
 cask pg-commander
 cask rstudio
-cask vagrant-manager
-cask virtualbox-extension-pack
-cask vlc
+cask vagrant
+cask virtualbox
+cask visual-studio-code
 
 # App Store applications
 appstore 406056744 Evernote (7.6)
-appstore 539883307 LINE (5.11.1)
+appstore 539883307 LINE (5.11.2)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 483820530 QR Journal (1.7.1)
 appstore 803453959 Slack (3.3.3)
