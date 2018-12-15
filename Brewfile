@@ -105,10 +105,10 @@ cask jetbrains-toolbox
 cask mi
 cask openoffice
 cask pg-commander
-cask rstudio
-cask vagrant
-cask virtualbox
-cask visual-studio-code
+cask skype
+cask vagrant-manager
+cask virtualbox-extension-pack
+cask vlc
 
 tap adoptopenjdk/openjdk
 
@@ -142,11 +142,10 @@ cask java10
 cask kindle
 cask mysqlworkbench
 cask opera
-cask react-studio
-cask skype
-cask vagrant-manager
-cask virtualbox-extension-pack
-cask vlc
+cask rstudio
+cask vagrant
+cask virtualbox
+cask visual-studio-code
 
 # App Store applications
 appstore 406056744 Evernote (7.6)
