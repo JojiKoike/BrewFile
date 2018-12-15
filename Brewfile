@@ -103,13 +103,12 @@ cask google-chrome
 cask iterm2
 cask jetbrains-toolbox
 cask mi
-cask netbeans
-cask opera
-cask react-studio
-cask skype
-cask vagrant-manager
-cask virtualbox-extension-pack
-cask vlc
+cask openoffice
+cask pg-commander
+cask rstudio
+cask vagrant
+cask virtualbox
+cask visual-studio-code
 
 tap adoptopenjdk/openjdk
 
@@ -142,16 +141,16 @@ cask java
 cask java10
 cask kindle
 cask mysqlworkbench
-cask openoffice
-cask pg-commander
-cask rstudio
-cask vagrant
-cask virtualbox
-cask visual-studio-code
+cask opera
+cask react-studio
+cask skype
+cask vagrant-manager
+cask virtualbox-extension-pack
+cask vlc
 
 # App Store applications
 appstore 406056744 Evernote (7.6)
-appstore 539883307 LINE (5.11.2)
+appstore 539883307 LINE (5.12.0)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 483820530 QR Journal (1.7.1)
 appstore 803453959 Slack (3.3.3)
