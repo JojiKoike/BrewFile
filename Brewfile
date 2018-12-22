@@ -146,9 +146,10 @@ cask rstudio
 cask vagrant
 cask virtualbox
 cask visual-studio-code
+cask xmind
 
 # App Store applications
-appstore 406056744 Evernote (7.6)
+appstore 406056744 Evernote (7.7)
 appstore 539883307 LINE (5.12.0)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 483820530 QR Journal (1.7.1)
