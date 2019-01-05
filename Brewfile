@@ -102,13 +102,14 @@ cask gimp
 cask google-chrome
 cask iterm2
 cask jetbrains-toolbox
-cask mi
-cask openoffice
-cask pg-commander
-cask skype
-cask vagrant-manager
-cask virtualbox-extension-pack
-cask vlc
+cask kitematic
+cask mysqlworkbench
+cask opera
+cask rstudio
+cask vagrant
+cask virtualbox
+cask visual-studio-code
+cask xmind
 
 tap adoptopenjdk/openjdk
 
@@ -140,13 +141,13 @@ cask google-japanese-ime
 cask java
 cask java10
 cask kindle
-cask mysqlworkbench
-cask opera
-cask rstudio
-cask vagrant
-cask virtualbox
-cask visual-studio-code
-cask xmind
+cask mi
+cask openoffice
+cask pg-commander
+cask skype
+cask vagrant-manager
+cask virtualbox-extension-pack
+cask vlc
 
 # App Store applications
 appstore 406056744 Evernote (7.7)
