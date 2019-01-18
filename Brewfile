@@ -11,6 +11,7 @@ brew boost
 brew brotli
 brew c-ares
 brew cabal-install
+brew composer
 brew freetds
 brew freetype
 brew gcc
@@ -60,7 +61,9 @@ brew mysql-client
 brew ncurses
 brew nettle
 brew nghttp2
+brew node
 brew npth
+brew openblas
 brew openssl
 brew p11-kit
 brew pcre
@@ -82,6 +85,7 @@ brew vim
 brew webp
 brew wget
 brew xz
+brew yarn --without-node
 brew zlib
 brew zsh
 
@@ -150,11 +154,11 @@ cask virtualbox-extension-pack
 cask vlc
 
 # App Store applications
-appstore 406056744 Evernote (7.7)
-appstore 539883307 LINE (5.12.0)
+appstore 406056744 Evernote (7.8)
+appstore 539883307 LINE (5.12.1)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 483820530 QR Journal (1.7.1)
-appstore 803453959 Slack (3.3.3)
+appstore 803453959 Slack (3.3.7)
 appstore 1278508951 Trello (2.10.8)
 appstore 409789998 Twitter (4.3.2)
 appstore 441812880 Wallpapers HD Lite (1.4)
