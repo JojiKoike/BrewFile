@@ -119,8 +119,6 @@ tap adoptopenjdk/openjdk
 
 tap argon/mas
 
-tap chef/chef
-
 tap go-delve/delve
 
 tap heroku/brew
