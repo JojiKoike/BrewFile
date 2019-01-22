@@ -98,13 +98,13 @@ tap homebrew/services
 
 tap homebrew/cask
 cask adobe-acrobat-reader
-cask android-studio
-cask avg-antivirus
-cask cyberduck
-cask firefox
-cask gimp
-cask google-chrome
-cask iterm2
+cask atom
+cask cocoarestclient
+cask docker
+cask flash-player
+cask gitup
+cask google-japanese-ime
+cask java
 cask jetbrains-toolbox
 cask kitematic
 cask mysqlworkbench
@@ -134,13 +134,12 @@ brew adoptopenjdk-openjdk8
 
 # Other Cask applications
 cask android-file-transfer
-cask atom
-cask cocoarestclient
-cask docker
-cask flash-player
-cask gitup
-cask google-japanese-ime
-cask java
+cask avg-antivirus
+cask cyberduck
+cask firefox
+cask gimp
+cask google-chrome
+cask iterm2
 cask java10
 cask kindle
 cask mi
