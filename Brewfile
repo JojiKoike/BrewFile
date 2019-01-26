@@ -80,6 +80,7 @@ brew ruby
 brew sbt
 brew sqlite
 brew tmux
+brew tree
 brew unixodbc
 brew vim
 brew webp
