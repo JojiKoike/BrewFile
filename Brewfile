@@ -53,6 +53,7 @@ brew libzdb
 brew libzip
 brew libzzip
 brew lua
+brew lz4
 brew mas
 brew mcrypt
 brew mhash
@@ -79,9 +80,11 @@ brew readline
 brew ruby
 brew sbt
 brew sqlite
+brew subversion
 brew tmux
 brew tree
 brew unixodbc
+brew utf8proc
 brew vim
 brew webp
 brew wget
