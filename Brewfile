@@ -89,7 +89,7 @@ brew vim
 brew webp
 brew wget
 brew xz
-brew yarn --without-node
+brew yarn
 brew zlib
 brew zsh
 
@@ -158,7 +158,7 @@ appstore 406056744 Evernote (7.9)
 appstore 539883307 LINE (5.14.0)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 483820530 QR Journal (1.7.1)
-appstore 803453959 Slack (3.3.7)
+appstore 803453959 Slack (3.3.8)
 appstore 1278508951 Trello (2.10.8)
 appstore 409789998 Twitter (4.3.2)
 appstore 441812880 Wallpapers HD Lite (1.4)
