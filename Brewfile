@@ -104,12 +104,12 @@ tap homebrew/services
 tap homebrew/cask
 cask adobe-acrobat-reader
 cask atom
-cask cocoarestclient
-cask docker
-cask flash-player
-cask gitup
-cask google-japanese-ime
-cask java
+cask brackets
+cask cyberduck
+cask firefox
+cask gimp
+cask google-chrome
+cask iterm2
 cask jetbrains-toolbox
 cask kitematic
 cask openoffice
@@ -139,11 +139,12 @@ brew adoptopenjdk-openjdk8
 # Other Cask applications
 cask android-file-transfer
 cask avg-antivirus
-cask cyberduck
-cask firefox
-cask gimp
-cask google-chrome
-cask iterm2
+cask cocoarestclient
+cask docker
+cask flash-player
+cask gitup
+cask google-japanese-ime
+cask java
 cask java10
 cask kindle
 cask mysqlworkbench
@@ -155,12 +156,12 @@ cask visual-studio-code
 cask xmind
 
 # App Store applications
-appstore 406056744 Evernote (7.9)
-appstore 539883307 LINE (5.15.0)
-appstore 715768417 Microsoft Remote Desktop (8.0.30030)
-appstore 483820530 QR Journal (1.7.1)
-appstore 803453959 Slack (3.3.8)
-appstore 1278508951 Trello (2.10.9)
-appstore 409789998 Twitter (4.3.2)
-appstore 441812880 Wallpapers HD Lite (1.4)
-appstore 497799835 Xcode (10.1)
+appstore 441812880  (1.4)
+appstore 483820530  (1.7.1)
+appstore 497799835  (10.2)
+appstore 1278508951  (2.10.12)
+appstore 803453959  (3.3.8)
+appstore 409789998  (4.3.2)
+appstore 539883307  (5.15.0)
+appstore 406056744  (7.9)
+appstore 715768417  (8.0.30030)
