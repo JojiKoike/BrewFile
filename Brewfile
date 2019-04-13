@@ -3,6 +3,7 @@
 
 tap homebrew/core
 brew adns
+brew apache-spark
 brew apr
 brew apr-util
 brew aspell
@@ -67,6 +68,7 @@ brew npth
 brew openblas
 brew openssl
 brew p11-kit
+brew p7zip
 brew pcre
 brew pcre2
 brew perl
