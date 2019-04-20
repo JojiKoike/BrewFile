@@ -97,7 +97,6 @@ brew zlib
 brew zsh
 
 tap homebrew/cask-versions
-cask java8
 
 tap homebrew/php
 
@@ -148,6 +147,7 @@ cask gitup
 cask google-japanese-ime
 cask java
 cask java10
+cask java8
 cask kindle
 cask mysqlworkbench
 cask opera
@@ -160,9 +160,9 @@ cask xmind
 # App Store applications
 appstore 441812880  (1.4)
 appstore 483820530  (1.7.1)
-appstore 497799835  (10.2)
+appstore 497799835  (10.2.1)
 appstore 1278508951  (2.10.12)
-appstore 803453959  (3.3.8)
+appstore 803453959  (3.4.0)
 appstore 409789998  (4.3.2)
 appstore 539883307  (5.15.0)
 appstore 406056744  (7.9)
