@@ -11,14 +11,12 @@ brew autoconf
 brew boost
 brew brotli
 brew c-ares
-brew cabal-install
 brew composer
 brew freetds
 brew freetype
 brew gcc
 brew gdbm
 brew gettext
-brew ghc
 brew git
 brew git-flow-avh
 brew glib
@@ -79,6 +77,7 @@ brew python
 brew python@2
 brew r
 brew readline
+brew reattach-to-user-namespace
 brew ruby
 brew sbt
 brew sqlite
