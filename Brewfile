@@ -3,7 +3,6 @@
 
 tap homebrew/core
 brew adns
-brew apache-spark
 brew apr
 brew apr-util
 brew aspell
