@@ -95,6 +95,7 @@ brew zlib
 brew zsh
 
 tap homebrew/cask-versions
+cask adoptopenjdk8
 
 tap homebrew/php
 
@@ -114,9 +115,10 @@ cask kitematic
 cask openoffice
 cask pg-commander
 cask skype
-cask vagrant-manager
-cask virtualbox-extension-pack
-cask vlc
+cask vagrant
+cask virtualbox
+cask visual-studio-code
+cask xmind
 
 tap adoptopenjdk/openjdk
 
@@ -150,18 +152,18 @@ cask kindle
 cask mysqlworkbench
 cask opera
 cask rstudio
-cask vagrant
-cask virtualbox
-cask visual-studio-code
-cask xmind
+cask tableau-public
+cask vagrant-manager
+cask virtualbox-extension-pack
+cask vlc
 
 # App Store applications
-appstore 441812880  (1.4)
-appstore 483820530  (1.7.1)
-appstore 497799835  (10.2.1)
-appstore 1278508951  (2.10.12)
-appstore 803453959  (3.4.0)
-appstore 409789998  (4.3.2)
-appstore 539883307  (5.16.0)
-appstore 406056744  (7.9.1)
-appstore 715768417  (8.0.30030)
+appstore 406056744 Evernote (7.10)
+appstore 539883307 LINE (5.16.2)
+appstore 715768417 Microsoft Remote Desktop (8.0.30030)
+appstore 483820530 QR Journal (1.7.1)
+appstore 803453959 Slack (3.4.2)
+appstore 1278508951 Trello (2.10.13)
+appstore 409789998 Twitter (4.3.2)
+appstore 441812880 Wallpapers HD Lite (1.4)
+appstore 497799835 Xcode (10.2.1)
