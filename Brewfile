@@ -42,6 +42,7 @@ brew libmpc
 brew libpng
 brew libpq
 brew libtasn1
+brew libtiff
 brew libtool
 brew libunistring
 brew libusb
@@ -96,33 +97,32 @@ brew zlib
 brew zsh
 
 tap homebrew/cask-versions
-
-tap homebrew/php
+cask adoptopenjdk8
 
 tap homebrew/services
 
 tap homebrew/cask
 cask adobe-acrobat-reader
-cask android-file-transfer
-cask avg-antivirus
+cask atom
 cask cocoarestclient
-cask docker
+cask discord
+cask dropbox
 cask flash-player
 cask gitup
 cask google-japanese-ime
-cask java
+cask iterm2
 cask jetbrains-toolbox
-cask kitematic
-cask mysqlworkbench
+cask kindle
+cask mattermost
+cask onyx
 cask opera
 cask rstudio
-cask tableau-public
-cask vagrant-manager
-cask virtualbox-extension-pack
-cask vlc
+cask vagrant
+cask virtualbox
+cask visual-studio-code
+cask xmind
 
 tap adoptopenjdk/openjdk
-cask adoptopenjdk12
 
 tap argon/mas
 
@@ -135,38 +135,34 @@ brew heroku-node
 tap rcmdnk/file
 brew brew-file
 
-# Other Homebrew packages
-brew adoptopenjdk-openjdk10
-brew adoptopenjdk-openjdk8
-
 # Other Cask applications
-cask adoptopenjdk8
-cask atom
+cask android-file-transfer
 cask brackets
 cask cyberduck
+cask docker
 cask firefox
 cask gimp
 cask google-chrome
-cask iterm2
-cask java10
-cask java8
-cask kindle
-cask mattermost
+cask hyperswitch
+cask java
+cask julia
+cask kitematic
+cask mysqlworkbench
 cask openoffice
 cask pg-commander
-cask skype
-cask vagrant
-cask virtualbox
-cask visual-studio-code
-cask xmind
+cask tableau-public
+cask vagrant-manager
+cask virtualbox-extension-pack
+cask vlc
 
 # App Store applications
-appstore 406056744 Evernote (7.11)
-appstore 539883307 LINE (5.17.2)
+appstore 595191960 CopyClip (1.9.2)
+appstore 406056744 Evernote (7.12)
+appstore 539883307 LINE (5.18.3)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 483820530 QR Journal (1.7.1)
-appstore 803453959 Slack (3.4.2)
+appstore 803453959 Slack (4.0.1)
 appstore 1278508951 Trello (2.10.14)
 appstore 409789998 Twitter (4.3.2)
 appstore 441812880 Wallpapers HD Lite (1.4)
-appstore 497799835 Xcode (10.2.1)
+appstore 497799835 Xcode (10.3)
