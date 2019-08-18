@@ -80,7 +80,6 @@ brew r
 brew readline
 brew reattach-to-user-namespace
 brew ruby
-brew sbt
 brew sqlite
 brew subversion
 brew tmux
