@@ -24,7 +24,9 @@ brew gnu-getopt
 brew gnupg
 brew gnutls
 brew gradle
+brew hadoop
 brew haskell-stack
+brew hive
 brew icu4c
 brew isl
 brew jansson
@@ -56,7 +58,6 @@ brew lz4
 brew mas
 brew mcrypt
 brew mhash
-brew mongodb
 brew mpfr
 brew mysql-client
 brew ncurses
@@ -66,6 +67,7 @@ brew node
 brew npth
 brew openblas
 brew openssl
+brew openssl@1.1
 brew p11-kit
 brew p7zip
 brew pcre
@@ -155,12 +157,12 @@ cask virtualbox-extension-pack
 cask vlc
 
 # App Store applications
-appstore 595191960 CopyClip (1.9.2)
+appstore 595191960 CopyClip (1.9.3)
 appstore 406056744 Evernote (7.12)
-appstore 539883307 LINE (5.18.3)
+appstore 539883307 LINE (5.19.0)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 483820530 QR Journal (1.7.1)
-appstore 803453959 Slack (4.0.1)
+appstore 803453959 Slack (4.0.3)
 appstore 1278508951 Trello (2.10.14)
 appstore 409789998 Twitter (4.3.2)
 appstore 441812880 Wallpapers HD Lite (1.4)
