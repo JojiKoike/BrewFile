@@ -24,9 +24,7 @@ brew gnu-getopt
 brew gnupg
 brew gnutls
 brew gradle
-brew hadoop
 brew haskell-stack
-brew hive
 brew icu4c
 brew isl
 brew jansson
@@ -97,46 +95,10 @@ brew yarn
 brew zlib
 brew zsh
 
-tap homebrew/cask-versions
-cask adoptopenjdk8
-
 tap homebrew/services
 
 tap homebrew/cask
 cask adobe-acrobat-reader
-cask atom
-cask cocoarestclient
-cask discord
-cask dropbox
-cask flash-player
-cask gitup
-cask google-japanese-ime
-cask iterm2
-cask jetbrains-toolbox
-cask kindle
-cask mattermost
-cask onyx
-cask opera
-cask rstudio
-cask vagrant
-cask virtualbox
-cask visual-studio-code
-cask xmind
-
-tap adoptopenjdk/openjdk
-
-tap argon/mas
-
-tap go-delve/delve
-
-tap heroku/brew
-brew heroku
-brew heroku-node
-
-tap rcmdnk/file
-brew brew-file
-
-# Other Cask applications
 cask android-file-transfer
 cask brackets
 cask cyberduck
@@ -156,6 +118,44 @@ cask vagrant-manager
 cask virtualbox-extension-pack
 cask vlc
 
+tap adoptopenjdk/openjdk
+cask adoptopenjdk8
+
+tap argon/mas
+
+tap go-delve/delve
+
+tap graalvm/tap
+cask graalvm-ce
+
+tap heroku/brew
+brew heroku
+brew heroku-node
+
+tap rcmdnk/file
+brew brew-file
+
+# Other Cask applications
+cask adoptopenjdk9
+cask atom
+cask cocoarestclient
+cask discord
+cask dropbox
+cask flash-player
+cask gitup
+cask google-japanese-ime
+cask iterm2
+cask jetbrains-toolbox
+cask kindle
+cask mattermost
+cask onyx
+cask opera
+cask rstudio
+cask vagrant
+cask virtualbox
+cask visual-studio-code
+cask xmind
+
 # App Store applications
 appstore 595191960 CopyClip (1.9.3)
 appstore 406056744 Evernote (7.12)
@@ -163,7 +163,7 @@ appstore 539883307 LINE (5.19.0)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 483820530 QR Journal (1.7.1)
 appstore 803453959 Slack (4.0.3)
-appstore 1278508951 Trello (2.10.14)
+appstore 1278508951 Trello (2.11.1)
 appstore 409789998 Twitter (4.3.2)
 appstore 441812880 Wallpapers HD Lite (1.4)
-appstore 497799835 Xcode (10.3)
+appstore 497799835 Xcode (11.0)
