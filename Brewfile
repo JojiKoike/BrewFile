@@ -119,6 +119,7 @@ cask virtualbox-extension-pack
 cask vlc
 
 tap adoptopenjdk/openjdk
+cask adoptopenjdk10
 cask adoptopenjdk8
 
 tap argon/mas
@@ -136,6 +137,7 @@ tap rcmdnk/file
 brew brew-file
 
 # Other Cask applications
+cask adoptopenjdk11
 cask adoptopenjdk9
 cask atom
 cask cocoarestclient
