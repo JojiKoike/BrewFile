@@ -91,7 +91,6 @@ brew vim
 brew webp
 brew wget
 brew xz
-brew yarn
 brew zlib
 brew zsh
 
