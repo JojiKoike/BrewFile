@@ -110,18 +110,21 @@ cask java
 cask julia
 cask kitematic
 cask mysqlworkbench
-cask openoffice
-cask pg-commander
-cask tableau-public
-cask vagrant-manager
-cask virtualbox-extension-pack
-cask vlc
+cask opera
+cask rstudio
+cask vagrant
+cask virtualbox
+cask visual-studio-code
+cask xmind
 
 tap adoptopenjdk/openjdk
 cask adoptopenjdk10
 cask adoptopenjdk8
 
 tap argon/mas
+
+tap dart-lang/dart
+brew dart
 
 tap go-delve/delve
 
@@ -134,6 +137,9 @@ brew heroku-node
 
 tap rcmdnk/file
 brew brew-file
+
+tap sass/sass
+brew sass
 
 # Other Cask applications
 cask adoptopenjdk11
@@ -149,22 +155,21 @@ cask iterm2
 cask jetbrains-toolbox
 cask kindle
 cask mattermost
-cask onyx
-cask opera
-cask rstudio
-cask vagrant
-cask virtualbox
-cask visual-studio-code
-cask xmind
+cask openoffice
+cask pg-commander
+cask tableau-public
+cask vagrant-manager
+cask virtualbox-extension-pack
+cask vlc
 
 # App Store applications
 appstore 595191960 CopyClip (1.9.3)
-appstore 406056744 Evernote (7.12)
+appstore 406056744 Evernote (7.13)
 appstore 539883307 LINE (5.19.0)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 483820530 QR Journal (1.7.1)
-appstore 803453959 Slack (4.0.3)
+appstore 803453959 Slack (4.1.0)
 appstore 1278508951 Trello (2.11.1)
 appstore 409789998 Twitter (4.3.2)
 appstore 441812880 Wallpapers HD Lite (1.4)
-appstore 497799835 Xcode (11.0)
+appstore 497799835 Xcode (11.1)
