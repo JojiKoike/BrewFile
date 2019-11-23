@@ -64,7 +64,6 @@ brew nghttp2
 brew node
 brew npth
 brew openblas
-brew openssl
 brew openssl@1.1
 brew p11-kit
 brew p7zip
