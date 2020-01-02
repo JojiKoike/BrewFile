@@ -118,7 +118,8 @@ cask xmind
 
 tap adoptopenjdk/openjdk
 cask adoptopenjdk10
-cask adoptopenjdk8
+cask adoptopenjdk13
+cask adoptopenjdk9
 
 tap argon/mas
 
@@ -128,7 +129,6 @@ brew dart
 tap go-delve/delve
 
 tap graalvm/tap
-cask graalvm-ce
 
 tap heroku/brew
 brew heroku
@@ -142,7 +142,7 @@ brew sass
 
 # Other Cask applications
 cask adoptopenjdk11
-cask adoptopenjdk9
+cask adoptopenjdk8
 cask atom
 cask cocoarestclient
 cask discord
@@ -150,6 +150,7 @@ cask dropbox
 cask flash-player
 cask gitup
 cask google-japanese-ime
+cask graalvm-ce
 cask iterm2
 cask jetbrains-toolbox
 cask kindle
@@ -163,12 +164,12 @@ cask vlc
 
 # App Store applications
 appstore 595191960 CopyClip (1.9.3)
-appstore 406056744 Evernote (7.13)
-appstore 539883307 LINE (5.20.1)
+appstore 406056744 Evernote (7.14)
+appstore 539883307 LINE (5.21.2)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 483820530 QR Journal (2.0)
-appstore 803453959 Slack (4.1.2)
-appstore 1278508951 Trello (2.11.2)
+appstore 803453959 Slack (4.2.0)
+appstore 1278508951 Trello (2.11.3)
 appstore 409789998 Twitter (4.3.2)
 appstore 441812880 Wallpapers HD Lite (1.4)
-appstore 497799835 Xcode (11.2.1)
+appstore 497799835 Xcode (11.3)
