@@ -16,6 +16,7 @@ brew freetype
 brew gcc
 brew gdbm
 brew gettext
+brew ghostscript
 brew git
 brew git-flow-avh
 brew glib
@@ -26,19 +27,24 @@ brew gnutls
 brew gradle
 brew haskell-stack
 brew icu4c
+brew ilmbase
+brew imagemagick
 brew isl
 brew jansson
 brew jemalloc
 brew jpeg
 brew libassuan
+brew libde265
 brew libev
 brew libevent
 brew libffi
 brew libgcrypt
 brew libgpg-error
+brew libheif
 brew libidn2
 brew libksba
 brew libmpc
+brew libomp
 brew libpng
 brew libpq
 brew libtasn1
@@ -51,6 +57,7 @@ brew libyaml
 brew libzdb
 brew libzip
 brew libzzip
+brew little-cms2
 brew lua
 brew lz4
 brew mas
@@ -64,6 +71,8 @@ brew nghttp2
 brew node
 brew npth
 brew openblas
+brew openexr
+brew openjpeg
 brew openssl@1.1
 brew p11-kit
 brew p7zip
@@ -78,7 +87,9 @@ brew python@2
 brew r
 brew readline
 brew reattach-to-user-namespace
+brew redpen
 brew ruby
+brew shared-mime-info
 brew sqlite
 brew subversion
 brew tmux
@@ -89,6 +100,7 @@ brew utf8proc
 brew vim
 brew webp
 brew wget
+brew x265
 brew xz
 brew zlib
 brew zsh
@@ -98,27 +110,47 @@ tap homebrew/services
 tap homebrew/cask
 cask adobe-acrobat-reader
 cask android-file-transfer
+cask atom
 cask brackets
+cask cocoarestclient
 cask cyberduck
+cask discord
 cask docker
+cask dropbox
 cask firefox
+cask flash-player
 cask gimp
+cask gitup
 cask google-chrome
+cask google-japanese-ime
 cask hyperswitch
+cask iterm2
 cask java
+cask jetbrains-toolbox
 cask julia
+cask kindle
 cask kitematic
+cask mactex
+cask mattermost
 cask mysqlworkbench
+cask openoffice
 cask opera
+cask pg-commander
 cask rstudio
+cask tableau-public
 cask vagrant
+cask vagrant-manager
 cask virtualbox
+cask virtualbox-extension-pack
 cask visual-studio-code
+cask vlc
 cask xmind
 
 tap adoptopenjdk/openjdk
 cask adoptopenjdk10
+cask adoptopenjdk11
 cask adoptopenjdk13
+cask adoptopenjdk8
 cask adoptopenjdk9
 
 tap argon/mas
@@ -141,35 +173,15 @@ tap sass/sass
 brew sass
 
 # Other Cask applications
-cask adoptopenjdk11
-cask adoptopenjdk8
-cask atom
-cask cocoarestclient
-cask discord
-cask dropbox
-cask flash-player
-cask gitup
-cask google-japanese-ime
 cask graalvm-ce
-cask iterm2
-cask jetbrains-toolbox
-cask kindle
-cask mattermost
-cask openoffice
-cask pg-commander
-cask tableau-public
-cask vagrant-manager
-cask virtualbox-extension-pack
-cask vlc
 
 # App Store applications
-appstore 595191960 CopyClip (1.9.3)
 appstore 406056744 Evernote (7.14)
-appstore 539883307 LINE (5.21.2)
+appstore 539883307 LINE (5.21.3)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 483820530 QR Journal (2.0)
 appstore 803453959 Slack (4.2.0)
 appstore 1278508951 Trello (2.11.3)
 appstore 409789998 Twitter (4.3.2)
 appstore 441812880 Wallpapers HD Lite (1.4)
-appstore 497799835 Xcode (11.3)
+appstore 497799835 Xcode (11.3.1)
