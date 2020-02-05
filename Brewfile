@@ -149,6 +149,7 @@ cask xmind
 tap adoptopenjdk/openjdk
 cask adoptopenjdk10
 cask adoptopenjdk11
+cask adoptopenjdk11-openj9
 cask adoptopenjdk13
 cask adoptopenjdk8
 cask adoptopenjdk9
