@@ -72,6 +72,7 @@ brew node
 brew npth
 brew openblas
 brew openexr
+brew openjdk
 brew openjpeg
 brew openssl@1.1
 brew p11-kit
@@ -111,7 +112,6 @@ tap homebrew/cask
 cask adobe-acrobat-reader
 cask android-file-transfer
 cask atom
-cask brackets
 cask cocoarestclient
 cask cyberduck
 cask discord
