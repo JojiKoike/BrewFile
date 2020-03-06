@@ -33,6 +33,7 @@ brew isl
 brew jansson
 brew jemalloc
 brew jpeg
+brew krb5
 brew libassuan
 brew libde265
 brew libev
@@ -48,10 +49,13 @@ brew libomp
 brew libpng
 brew libpq
 brew libtasn1
+brew libtermkey
 brew libtiff
 brew libtool
 brew libunistring
 brew libusb
+brew libuv
+brew libvterm
 brew libxml2
 brew libyaml
 brew libzdb
@@ -59,13 +63,16 @@ brew libzip
 brew libzzip
 brew little-cms2
 brew lua
+brew luajit
 brew lz4
 brew mas
 brew mcrypt
 brew mhash
 brew mpfr
+brew msgpack
 brew mysql-client
 brew ncurses
+brew neovim
 brew nettle
 brew nghttp2
 brew node
@@ -84,7 +91,7 @@ brew pinentry
 brew pkg-config
 brew postgresql
 brew python
-brew python@2
+brew python@3.8
 brew r
 brew readline
 brew reattach-to-user-namespace
@@ -96,6 +103,7 @@ brew subversion
 brew tmux
 brew tree
 brew unbound
+brew unibilium
 brew unixodbc
 brew utf8proc
 brew vim
@@ -137,6 +145,7 @@ cask openoffice
 cask opera
 cask pg-commander
 cask rstudio
+cask sketch
 cask tableau-public
 cask vagrant
 cask vagrant-manager
@@ -173,16 +182,19 @@ brew brew-file
 tap sass/sass
 brew sass
 
+# Other Homebrew packages
+brew python@2
+
 # Other Cask applications
 cask graalvm-ce
 
 # App Store applications
 appstore 406056744 Evernote (7.14)
-appstore 539883307 LINE (5.21.3)
+appstore 539883307 LINE (5.22.0)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 483820530 QR Journal (2.0)
-appstore 803453959 Slack (4.2.0)
-appstore 1278508951 Trello (2.11.3)
+appstore 803453959 Slack (4.3.3)
+appstore 1278508951 Trello (2.11.4)
 appstore 409789998 Twitter (4.3.2)
 appstore 441812880 Wallpapers HD Lite (1.4)
 appstore 497799835 Xcode (11.3.1)
