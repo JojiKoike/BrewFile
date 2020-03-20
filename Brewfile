@@ -11,9 +11,12 @@ brew boost
 brew brotli
 brew c-ares
 brew composer
+brew docker
+brew fontconfig
 brew freetds
 brew freetype
 brew gcc
+brew gd
 brew gdbm
 brew gettext
 brew ghostscript
@@ -25,12 +28,15 @@ brew gnu-getopt
 brew gnupg
 brew gnutls
 brew gradle
+brew graphviz
+brew gts
 brew haskell-stack
 brew icu4c
 brew ilmbase
 brew imagemagick
 brew isl
 brew jansson
+brew jasper
 brew jemalloc
 brew jpeg
 brew krb5
@@ -73,6 +79,7 @@ brew msgpack
 brew mysql-client
 brew ncurses
 brew neovim
+brew netpbm
 brew nettle
 brew nghttp2
 brew node
@@ -89,6 +96,7 @@ brew pcre2
 brew perl
 brew pinentry
 brew pkg-config
+brew plantuml
 brew postgresql
 brew python
 brew python@3.8
@@ -113,11 +121,13 @@ brew x265
 brew xz
 brew zlib
 brew zsh
+brew zsh-completions
 
 tap homebrew/services
 
 tap homebrew/cask
 cask adobe-acrobat-reader
+cask adoptopenjdk
 cask android-file-transfer
 cask atom
 cask cocoarestclient
@@ -131,13 +141,11 @@ cask gimp
 cask gitup
 cask google-chrome
 cask google-japanese-ime
-cask hyperswitch
 cask iterm2
 cask java
 cask jetbrains-toolbox
 cask julia
 cask kindle
-cask kitematic
 cask mactex
 cask mattermost
 cask mysqlworkbench
@@ -145,7 +153,6 @@ cask openoffice
 cask opera
 cask pg-commander
 cask rstudio
-cask sketch
 cask tableau-public
 cask vagrant
 cask vagrant-manager
@@ -190,11 +197,12 @@ cask graalvm-ce
 
 # App Store applications
 appstore 406056744 Evernote (7.14)
-appstore 539883307 LINE (5.22.0)
+appstore 539883307 LINE (5.23.0)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 483820530 QR Journal (2.0)
-appstore 803453959 Slack (4.3.3)
+appstore 803453959 Slack (4.4.0)
 appstore 1278508951 Trello (2.11.4)
 appstore 409789998 Twitter (4.3.2)
 appstore 441812880 Wallpapers HD Lite (1.4)
+appstore 414855915 WinArchiver Lite (2.5.3)
 appstore 497799835 Xcode (11.3.1)
