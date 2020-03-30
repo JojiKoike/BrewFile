@@ -3,23 +3,31 @@
 
 tap homebrew/core
 brew adns
+brew aom
 brew apr
 brew apr-util
 brew aspell
 brew autoconf
 brew boost
 brew brotli
+brew bzip2
 brew c-ares
+brew cairo
 brew composer
 brew docker
+brew ffmpeg
+brew flac
 brew fontconfig
 brew freetds
 brew freetype
+brew frei0r
+brew fribidi
 brew gcc
 brew gd
 brew gdbm
 brew gettext
 brew ghostscript
+brew giflib
 brew git
 brew git-flow-avh
 brew glib
@@ -28,8 +36,10 @@ brew gnu-getopt
 brew gnupg
 brew gnutls
 brew gradle
+brew graphite2
 brew graphviz
 brew gts
+brew harfbuzz
 brew haskell-stack
 brew icu4c
 brew ilmbase
@@ -40,20 +50,30 @@ brew jasper
 brew jemalloc
 brew jpeg
 brew krb5
+brew lame
+brew leptonica
+brew libass
 brew libassuan
+brew libbluray
 brew libde265
+brew libedit
 brew libev
 brew libevent
 brew libffi
 brew libgcrypt
 brew libgpg-error
 brew libheif
+brew libiconv
 brew libidn2
 brew libksba
 brew libmpc
+brew libogg
 brew libomp
 brew libpng
 brew libpq
+brew libsamplerate
+brew libsndfile
+brew libsoxr
 brew libtasn1
 brew libtermkey
 brew libtiff
@@ -61,6 +81,9 @@ brew libtool
 brew libunistring
 brew libusb
 brew libuv
+brew libvidstab
+brew libvorbis
+brew libvpx
 brew libvterm
 brew libxml2
 brew libyaml
@@ -71,6 +94,7 @@ brew little-cms2
 brew lua
 brew luajit
 brew lz4
+brew lzo
 brew mas
 brew mcrypt
 brew mhash
@@ -84,17 +108,21 @@ brew nettle
 brew nghttp2
 brew node
 brew npth
+brew oniguruma
 brew openblas
+brew opencore-amr
 brew openexr
 brew openjdk
 brew openjpeg
 brew openssl@1.1
+brew opus
 brew p11-kit
 brew p7zip
 brew pcre
 brew pcre2
 brew perl
 brew pinentry
+brew pixman
 brew pkg-config
 brew plantuml
 brew postgresql
@@ -104,10 +132,18 @@ brew r
 brew readline
 brew reattach-to-user-namespace
 brew redpen
+brew rtmpdump
+brew rubberband
 brew ruby
+brew sdl2
 brew shared-mime-info
+brew snappy
+brew speex
 brew sqlite
 brew subversion
+brew tesseract
+brew theora
+brew tidy-html5
 brew tmux
 brew tree
 brew unbound
@@ -117,7 +153,9 @@ brew utf8proc
 brew vim
 brew webp
 brew wget
+brew x264
 brew x265
+brew xvid
 brew xz
 brew zlib
 brew zsh
@@ -163,12 +201,12 @@ cask vlc
 cask xmind
 
 tap adoptopenjdk/openjdk
-cask adoptopenjdk10
 cask adoptopenjdk11
 cask adoptopenjdk11-openj9
+cask adoptopenjdk12
 cask adoptopenjdk13
+cask adoptopenjdk14
 cask adoptopenjdk8
-cask adoptopenjdk9
 
 tap argon/mas
 
@@ -196,13 +234,14 @@ brew python@2
 cask graalvm-ce
 
 # App Store applications
+appstore 595191960 CopyClip (1.9.3)
 appstore 406056744 Evernote (7.14)
 appstore 539883307 LINE (5.23.0)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 483820530 QR Journal (2.0)
-appstore 803453959 Slack (4.4.0)
+appstore 803453959 Slack (4.4.1)
 appstore 1278508951 Trello (2.11.4)
 appstore 409789998 Twitter (4.3.2)
 appstore 441812880 Wallpapers HD Lite (1.4)
 appstore 414855915 WinArchiver Lite (2.5.3)
-appstore 497799835 Xcode (11.3.1)
+appstore 497799835 Xcode (11.4)
