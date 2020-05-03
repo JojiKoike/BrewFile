@@ -118,6 +118,7 @@ brew openssl@1.1
 brew opus
 brew p11-kit
 brew p7zip
+brew pango
 brew pcre
 brew pcre2
 brew perl
@@ -140,6 +141,7 @@ brew shared-mime-info
 brew snappy
 brew speex
 brew sqlite
+brew srt
 brew subversion
 brew tesseract
 brew theora
@@ -184,13 +186,14 @@ cask java
 cask jetbrains-toolbox
 cask julia
 cask kindle
+cask local
 cask mactex
-cask mattermost
 cask mysqlworkbench
 cask openoffice
 cask opera
 cask pg-commander
 cask rstudio
+cask scratch
 cask tableau-public
 cask vagrant
 cask vagrant-manager
@@ -202,7 +205,6 @@ cask xmind
 
 tap adoptopenjdk/openjdk
 cask adoptopenjdk11
-cask adoptopenjdk11-openj9
 cask adoptopenjdk12
 cask adoptopenjdk13
 cask adoptopenjdk14
@@ -230,18 +232,15 @@ brew sass
 # Other Homebrew packages
 brew python@2
 
-# Other Cask applications
-cask graalvm-ce
-
 # App Store applications
 appstore 595191960 CopyClip (1.9.3)
 appstore 406056744 Evernote (7.14)
-appstore 539883307 LINE (5.23.0)
+appstore 539883307 LINE (5.24.1)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 483820530 QR Journal (2.0)
-appstore 803453959 Slack (4.4.1)
+appstore 803453959 Slack (4.5.0)
 appstore 1278508951 Trello (2.11.4)
 appstore 409789998 Twitter (4.3.2)
 appstore 441812880 Wallpapers HD Lite (1.4)
 appstore 414855915 WinArchiver Lite (2.5.3)
-appstore 497799835 Xcode (11.4)
+appstore 497799835 Xcode (11.4.1)
