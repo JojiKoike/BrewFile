@@ -8,12 +8,17 @@ brew apr
 brew apr-util
 brew aspell
 brew autoconf
+brew bison
+brew bison@2.7
 brew boost
 brew brotli
 brew bzip2
 brew c-ares
 brew cairo
 brew composer
+brew dav1d
+brew docbook
+brew docbook-xsl
 brew docker
 brew ffmpeg
 brew flac
@@ -66,6 +71,7 @@ brew libheif
 brew libiconv
 brew libidn2
 brew libksba
+brew liblqr
 brew libmpc
 brew libogg
 brew libomp
@@ -127,9 +133,10 @@ brew pixman
 brew pkg-config
 brew plantuml
 brew postgresql
-brew python
 brew python@3.8
 brew r
+brew rav1e
+brew re2c
 brew readline
 brew reattach-to-user-namespace
 brew redpen
@@ -157,6 +164,7 @@ brew webp
 brew wget
 brew x264
 brew x265
+brew xmlto
 brew xvid
 brew xz
 brew zlib
@@ -169,12 +177,13 @@ tap homebrew/cask
 cask adobe-acrobat-reader
 cask adoptopenjdk
 cask android-file-transfer
-cask atom
+cask chatwork
 cask cocoarestclient
 cask cyberduck
 cask discord
 cask docker
 cask dropbox
+cask figma
 cask firefox
 cask flash-player
 cask gimp
@@ -190,21 +199,20 @@ cask local
 cask mactex
 cask mysqlworkbench
 cask openoffice
-cask opera
 cask pg-commander
-cask rstudio
 cask scratch
-cask tableau-public
 cask vagrant
 cask vagrant-manager
 cask virtualbox
 cask virtualbox-extension-pack
 cask visual-studio-code
+cask visualvm
 cask vlc
 cask xmind
 
 tap adoptopenjdk/openjdk
 cask adoptopenjdk11
+cask adoptopenjdk11-jre
 cask adoptopenjdk12
 cask adoptopenjdk13
 cask adoptopenjdk14
@@ -235,12 +243,12 @@ brew python@2
 # App Store applications
 appstore 595191960 CopyClip (1.9.3)
 appstore 406056744 Evernote (7.14)
-appstore 539883307 LINE (5.24.1)
+appstore 539883307 LINE (6.1.1)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 483820530 QR Journal (2.0)
-appstore 803453959 Slack (4.5.0)
-appstore 1278508951 Trello (2.11.4)
+appstore 803453959 Slack (4.7.0)
+appstore 1278508951 Trello (2.11.7)
 appstore 409789998 Twitter (4.3.2)
 appstore 441812880 Wallpapers HD Lite (1.4)
 appstore 414855915 WinArchiver Lite (2.5.3)
-appstore 497799835 Xcode (11.4.1)
+appstore 497799835 Xcode (11.6)
