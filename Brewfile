@@ -8,6 +8,7 @@ brew apr
 brew apr-util
 brew aspell
 brew autoconf
+brew bdw-gc
 brew bison
 brew bison@2.7
 brew boost
@@ -40,10 +41,12 @@ brew gmp
 brew gnu-getopt
 brew gnupg
 brew gnutls
+brew gobject-introspection
 brew gradle
 brew graphite2
 brew graphviz
 brew gts
+brew guile
 brew harfbuzz
 brew haskell-stack
 brew icu4c
@@ -54,6 +57,7 @@ brew jansson
 brew jasper
 brew jemalloc
 brew jpeg
+brew jq
 brew krb5
 brew lame
 brew leptonica
@@ -106,6 +110,7 @@ brew mcrypt
 brew mhash
 brew mpfr
 brew msgpack
+brew mysql
 brew mysql-client
 brew ncurses
 brew neovim
@@ -133,6 +138,7 @@ brew pixman
 brew pkg-config
 brew plantuml
 brew postgresql
+brew protobuf
 brew python@3.8
 brew r
 brew rav1e
@@ -193,7 +199,6 @@ cask google-japanese-ime
 cask iterm2
 cask java
 cask jetbrains-toolbox
-cask julia
 cask kindle
 cask local
 cask mactex
@@ -241,12 +246,13 @@ brew sass
 brew python@2
 
 # App Store applications
-appstore 595191960 CopyClip (1.9.3)
+appstore 595191960 CopyClip (1.9.5)
 appstore 406056744 Evernote (7.14)
-appstore 539883307 LINE (6.1.1)
+appstore 539883307 LINE (6.2.2)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
+appstore 1496833156 Playgrounds (3.3.1)
 appstore 483820530 QR Journal (2.0)
-appstore 803453959 Slack (4.7.0)
+appstore 803453959 Slack (4.8.0)
 appstore 1278508951 Trello (2.11.7)
 appstore 409789998 Twitter (4.3.2)
 appstore 441812880 Wallpapers HD Lite (1.4)
