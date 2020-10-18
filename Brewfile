@@ -32,6 +32,7 @@ brew gcc
 brew gd
 brew gdbm
 brew gettext
+brew gh
 brew ghostscript
 brew giflib
 brew git
@@ -49,6 +50,7 @@ brew gts
 brew guile
 brew harfbuzz
 brew haskell-stack
+brew httpie
 brew icu4c
 brew ilmbase
 brew imagemagick
@@ -83,6 +85,7 @@ brew libpng
 brew libpq
 brew libsamplerate
 brew libsndfile
+brew libsodium
 brew libsoxr
 brew libtasn1
 brew libtermkey
@@ -140,6 +143,7 @@ brew plantuml
 brew postgresql
 brew protobuf
 brew python@3.8
+brew python@3.9
 brew r
 brew rav1e
 brew re2c
@@ -197,15 +201,13 @@ cask gitup
 cask google-chrome
 cask google-japanese-ime
 cask iterm2
-cask java
 cask jetbrains-toolbox
 cask kindle
-cask local
 cask mactex
+cask mi
 cask mysqlworkbench
 cask openoffice
 cask pg-commander
-cask scratch
 cask vagrant
 cask vagrant-manager
 cask virtualbox
@@ -245,16 +247,19 @@ brew sass
 # Other Homebrew packages
 brew python@2
 
+# Other Cask applications
+cask java
+
 # App Store applications
-appstore 595191960 CopyClip (1.9.5)
-appstore 406056744 Evernote (7.14)
-appstore 539883307 LINE (6.2.2)
+appstore 595191960 CopyClip (1.9.6)
+appstore 406056744 Evernote (10.0.10)
+appstore 539883307 LINE (6.3.2)
 appstore 715768417 Microsoft Remote Desktop (8.0.30030)
 appstore 1496833156 Playgrounds (3.3.1)
 appstore 483820530 QR Journal (2.0)
-appstore 803453959 Slack (4.8.0)
+appstore 803453959 Slack (4.10.2)
 appstore 1278508951 Trello (2.11.7)
 appstore 409789998 Twitter (4.3.2)
 appstore 441812880 Wallpapers HD Lite (1.4)
 appstore 414855915 WinArchiver Lite (2.5.3)
-appstore 497799835 Xcode (11.6)
+appstore 497799835 Xcode (12.0.1)
