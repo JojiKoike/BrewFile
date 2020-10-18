@@ -208,8 +208,6 @@ cask mi
 cask mysqlworkbench
 cask openoffice
 cask pg-commander
-cask vagrant
-cask vagrant-manager
 cask visual-studio-code
 cask visualvm
 cask vlc
