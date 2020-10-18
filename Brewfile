@@ -210,8 +210,6 @@ cask openoffice
 cask pg-commander
 cask vagrant
 cask vagrant-manager
-cask virtualbox
-cask virtualbox-extension-pack
 cask visual-studio-code
 cask visualvm
 cask vlc
