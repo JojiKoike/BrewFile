@@ -215,11 +215,6 @@ cask xmind
 
 tap adoptopenjdk/openjdk
 cask adoptopenjdk11
-cask adoptopenjdk11-jre
-cask adoptopenjdk12
-cask adoptopenjdk13
-cask adoptopenjdk14
-cask adoptopenjdk8
 
 tap argon/mas
 
